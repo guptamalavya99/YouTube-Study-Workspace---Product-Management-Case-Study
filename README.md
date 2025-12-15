@@ -21,5 +21,5 @@ This repository is organized to reflect the end-to-end product lifecycle managem
 * **📂 Final Case Study:** The complete presentation deck.
 
 ## 👨‍💻 Author
-**Malavya Gupta**<b>
-*This project is a personal case study and is not affiliated with YouTube/Google.*
+**Malavya Gupta**<br>
+**This project is a personal case study and is not affiliated with YouTube/Google.**
